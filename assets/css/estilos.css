@@ -29,7 +29,7 @@ body {
 
 @media (max-width: 768px) {
   #Contacto form label {
-    font-weight: 400;
+    font-weight: 380;
   }
 
   .navbar-brand{
